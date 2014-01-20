@@ -1,4 +1,4 @@
 yblas
 =====
 
-A simple comparision between different methods of comparing bit vectors
+  A simple comparison between different methods of comparing bit vectors
